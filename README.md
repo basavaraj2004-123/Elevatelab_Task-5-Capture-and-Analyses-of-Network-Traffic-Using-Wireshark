@@ -50,4 +50,3 @@ This project involves capturing live network packets using Wireshark on a Kali L
 
 This project is for educational purposes.
 
-Feel free to edit this README file by adding your name and any additional details specific to your implementation.
